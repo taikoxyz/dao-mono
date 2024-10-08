@@ -4,6 +4,36 @@
 
 ## Holesky
 
+### October 8th 2024
+_Taiko Deployment_
+
+```
+  Chain ID: 17000
+  Deploying from: 0x4100a9B680B1Be1F10Cb8b5a57fE59eA77A8184e
+  Using production settings
+
+  Factory: 0xD30A17D1AA5Bd67635D4701ee1AF06d15a54254E
+
+  DAO: 0xeb83CDe655D56bD953E14a209EA16648C749Af0f
+  Voting token: 0x6490E12d480549D333499236fF2Ba6676C296011
+  Taiko Bridge: 0xA098b76a3Dd499D3F6D58D8AcCaFC8efBFd06807
+
+  Plugins
+  - Multisig plugin: 0xb748a38a1b0D7177cCBEF2db90300d2Bc7F44525
+  - Emergency multisig plugin: 0x06314D980f67Bc1A8302e291E67bB7de45E207cF
+  - Optimistic token voting plugin: 0x362c52b11ebaAC8859551f6e1c5f67099eF1c486
+
+  Plugin repositories
+  - Multisig plugin repository: 0x1D525a5851056573D0D6A2B886C17D56eb2E80cf
+  - Emergency multisig plugin repository: 0x439eC6cAf3a60D9d97D2977d76a1562bD67c2679
+  - Optimistic token voting plugin repository: 0xB587b130c0Cb70396f941F169051FE5f78388B67
+
+  Helpers
+  - Public key registry 0x401C72321e6CBF62bED862d82DcBCA4a06077108
+  - Delegation wall 0x43Af83742f128c3922e42De117Ad0d59201dbDdf
+
+```
+
 ### October 2nd 2024
 _Taiko deployment_
 
@@ -11,55 +41,21 @@ _Taiko deployment_
   Chain ID: 17000
   Deploying from: 0x4100a9B680B1Be1F10Cb8b5a57fE59eA77A8184e
   Using production settings
-
   Factory: 0x41668f646760e5Cb9D83797ffeF7772bEEf87DfB
-
   DAO: 0xf29d203d253AA49DAAC55DA8a674899dD0ACc05B
   Voting token: 0x6490E12d480549D333499236fF2Ba6676C296011
   Taiko Bridge: 0xA098b76a3Dd499D3F6D58D8AcCaFC8efBFd06807
-
   Plugins
   - Multisig plugin: 0x5f4Ae17F5AE886030730A0A1603441C063D5bbd2
   - Emergency multisig plugin: 0x5a4C2dD33e1CF1F7bEA15be9ABb294eb51E836ff
   - Optimistic token voting plugin: 0x041527f730C72469247D227371147807F59A20D7
-
   Plugin repositories
   - Multisig plugin repository: 0x01cb0A62ED9e48D3224361d1128bc33C42c08876
   - Emergency multisig plugin repository: 0x3359A9DF60403a394C71E53DC5FA184ca30Bac01
   - Optimistic token voting plugin repository: 0xCA6C7A39966e136d9448677D804d124CCA44b1b0
-
   Helpers
   - Public key registry 0xC2d816653b743981CC3457c7c354F30C817e94D9
   - Delegation wall 0x7f194A7F477B14F72Bc6475433D6bB927e59E5fB
-```
-
-### September 10th 2024
-_Taiko deployment_
-
-```
-  Chain ID: 17000
-  Deploying from: 0x4100a9B680B1Be1F10Cb8b5a57fE59eA77A8184e
-  Using production settings
-
-  Factory: 0x27F9bDA389f3657FbC8c6D9E963f0FA0B9FE14a2
-
-  DAO: 0x2A6E5e0E24595C60Bd64A03fF39794CA5EAC7D98
-  Voting token: 0x6490E12d480549D333499236fF2Ba6676C296011
-  Taiko Bridge: 0xA098b76a3Dd499D3F6D58D8AcCaFC8efBFd06807
-
-  Plugins
-  - Multisig plugin: 0xDCe46B45198C29F67145737753350Eeb764f9c7D
-  - Emergency multisig plugin: 0x0721390c5eFD84876f5acaa4D61A6385b3448635
-  - Optimistic token voting plugin: 0x681492235290E723df94461063b5d48396472eE8
-
-  Plugin repositories
-  - Multisig plugin repository: 0x0Cb60f8A13ad346c0AbC604af9363a05A1008d20
-  - Emergency multisig plugin repository: 0x9B1DB6209a9f52e76Dd6F42334c47ac6c7a642ff
-  - Optimistic token voting plugin repository: 0x582AB594dbE9f9FfA0Ae67c5C783CD0Ad77B0957
-
-  Helpers
-  - Public key registry 0x6265937DD2C0762f0493f9FBb5372832976dA427
-  - Delegation wall 0x8cCE36573293e5bE12F8530f683caa51719cF57E
 ```
 
 ### August 1st 2024
